@@ -18,3 +18,4 @@ const sprite: drink = ["plain", true, 40];
 const tea: drink = ["brown", false, 20];
 
 //why do we use tuples?
+// it is hard to use tuples to represent data, object is preferred to represent data
